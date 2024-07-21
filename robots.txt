@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oydranale.github.io/sitemap
+Sitemap: https://oydranale.github.io/app/sitemap
+Sitemap: https://oydranale.github.io/assets/sitemap
+Sitemap: https://oydranale.github.io/css/sitemap
+Sitemap: https://oydranale.github.io/includes/sitemap
+Sitemap: https://oydranale.github.io/item/sitemap
+Sitemap: https://oydranale.github.io/src/sitemap
